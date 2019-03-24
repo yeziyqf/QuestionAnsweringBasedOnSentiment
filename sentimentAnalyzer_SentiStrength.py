@@ -11,7 +11,7 @@ total = 0
 
 thresholdPositive = 3
 thresholdNegative = 3
-TotalEmotionThreshold = 3
+TotalEmotionThreshold = 2
 
 print('PositiveThreshold: ' + str(thresholdPositive))
 print('NegativeThreshold: ' + str(thresholdNegative))
